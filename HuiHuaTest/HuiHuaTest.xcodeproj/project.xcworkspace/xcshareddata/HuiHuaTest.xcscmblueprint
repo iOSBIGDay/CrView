@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EFDBA853819C7932A3E9073ABC8D32B183F5AB02",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EFDBA853819C7932A3E9073ABC8D32B183F5AB02" : 0,
+    "66B405EF0428880971E03D5E012F61C6E8601C11" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "42E5B44C-46D0-4815-9E1A-F256EC7A3447",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EFDBA853819C7932A3E9073ABC8D32B183F5AB02" : "HuiHuaTest\/",
+    "66B405EF0428880971E03D5E012F61C6E8601C11" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HuiHuaTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HuiHuaTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CSaTSunTory\/CrView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66B405EF0428880971E03D5E012F61C6E8601C11"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/CSaTSunTory\/CrView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EFDBA853819C7932A3E9073ABC8D32B183F5AB02"
+    }
+  ]
+}
